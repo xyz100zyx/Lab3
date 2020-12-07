@@ -1,0 +1,26 @@
+body{
+	background-image: url(source//hC1.gif);
+	background-size: cover;
+	font-family: Arial;
+}
+/*.home{
+	position: absolute;
+}*/
+.text1{
+	margin-top: 100px;
+}
+h2{
+	color: #191970;
+	font-weight: bold;
+}
+table{
+	border: 1px solid #0000CD;
+}
+th{
+	border: 1px solid #0000CD;
+	text-align: center;
+}
+td{
+	border: 1px solid #0000CD;
+	text-align: center;
+}
